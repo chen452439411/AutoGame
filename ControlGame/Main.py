@@ -1,6 +1,6 @@
 from ControlGame.GetGame import GetGame
 from ControlGame.ExitGame import ExitGame
-from ControlGame.PlayGame.PlayCN004 import Play_CN004
+from ControlGame.PlayGame.PlayCN004_1 import Play_CN004
 from ControlGame.config_game import PLAYNAME
 from ControlGame.common import *
 from airtest.core.api import *
