@@ -11,7 +11,7 @@ def play1():
 
 
 def play2():
-    if_exists(path(__file__, "tpl1648118147612.png"))
+    if_exists(path(__file__, "feiji_zdj1.png"))
     qifei()
 
 
@@ -21,7 +21,7 @@ def play3():
 
 
 def play4():
-    if_exists(path(__file__, "tpl1648118164956.png"))
+    if_exists(path(__file__, "feiji_zhisheng1.png"))
     qifei()
 
 

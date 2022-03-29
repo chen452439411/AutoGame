@@ -43,5 +43,5 @@ class GetGame(object):
         self.ad_gold()
         touch(Template(path(__file__, "home1.png")))
         touch(Template(path(__file__, "home2.png")))
-        touch(Template(path(__file__, "home3.png")))
+        touch(Template(path(__file__, "home_zuo.png")))
         touch(Template(path(__file__, "home4.png")))

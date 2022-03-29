@@ -1,6 +1,8 @@
 from ControlGame.GetGame import GetGame
 from ControlGame.ExitGame import ExitGame
-from ControlGame.PlayGame.PlayCN004_1 import Play_CN004
+from ControlGame.PlayGame.PlayCN004_1 import Play_CN004_1
+from ControlGame.PlayGame.PlayCN004_2 import Play_CN004_2
+
 from ControlGame.config_game import PLAYNAME
 from ControlGame.common import *
 from airtest.core.api import *
@@ -39,4 +41,4 @@ class RunGame(object):
                 print(e, 'Main.main()失败')
 
 
-RunGame('CN004').main()
+RunGame('CN004_2').main()
