@@ -6,27 +6,27 @@ from ControlGame.common import *
 
 
 def play1():
-    if_exists(path(__file__, "tpl1648118133261.png"))
+    if_exists(path(__file__, "feiji_1.png"))
     qifei()
 
 
 def play2():
-    if_exists(path(__file__, "tpl1648118147612.png"))
+    if_exists(path(__file__, "feiji_2.png"))
     qifei()
 
 
 def play3():
-    if_exists(path(__file__, "tpl1648118158664.png"))
+    if_exists(path(__file__, "feiji_3.png"))
     qifei()
 
 
 def play4():
-    if_exists(path(__file__, "tpl1648118164956.png"))
+    if_exists(path(__file__, "zsj_1.png"))
     qifei()
 
 
 def play5():
-    if_exists(path(__file__, "tpl1648120329559.png"))
+    if_exists(path(__file__, "feiji_5.png"))
     qifei()
 
 
